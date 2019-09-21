@@ -20,6 +20,8 @@
 1. Ensure that your src folder is checked. Keep clicking `Next`.
 1. Click `Finish`.
 
+All tasks completed.
+
 # Tutorials 
 
 Duke Increment | Tutorial
